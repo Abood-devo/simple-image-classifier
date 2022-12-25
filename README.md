@@ -189,7 +189,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@adfd_2](https://twitter.com/adfd_2) - email@Abdulqader@ieee.org.com
+Abdulqader Dada - [@adfd_2](https://twitter.com/adfd_2) - Abdulqader@ieee.org
 
 Project Link: [https://github.com/Abood-devo/simple-image-classifier](https://github.com/Abood-devo/simple-image-classifier)
 
