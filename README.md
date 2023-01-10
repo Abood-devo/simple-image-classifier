@@ -18,22 +18,19 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-<!-- [![Contributors][contributors-shield]][contributors-url]
+[![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url] -->
+[![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
 
 
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/github_username/repo_name">
-    <img src="./assets/Cats-Dogs-Classification-deep-learning.gif" alt="Logo" >
+  <a href="https://github.com/Abood-devo/simple-image-classifier">
+    <img src="./assets/maxresdefault.png" alt="Logo" width=50% >
   </a>
 
 <h3 align="center">Simple image classifier</h3>
@@ -41,14 +38,14 @@
   <p align="center">
     Beginner-friendly image classifier built with PyTorch and CIFAR-10.
     <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/Abood-devo/simple-image-classifier"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
+    <a href="https://github.com/Abood-devo/simple-image-classifier">View Demo</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
+    <a href="https://github.com/Abood-devo/simple-image-classifier/issues">Report Bug</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
+    <a href="https://github.com/Abood-devo/simple-image-classifier/issues">Request Feature</a>
   </p>
 </div>
 
@@ -85,9 +82,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
+An image classifier is an ML model that recognizes objects in images. We can build image classifiers by feeding tens of thousands of labelled images to a neural network. Tools like PyTorch train these networks by evaluating their performance against the dataset.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -95,14 +90,12 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 
 ### Built With
 
-<!-- * [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url] -->
+* [![Pytorch][Pytorch]][Pytorch-url]
+* [![Jupyter][]][Jupyter-url]
+* [![Numpy][]][Numpy-url]
+* [![Matplotlib][]][Matplotlib-url]
+* [![Tqdm][]][Tqdm-url]
+* [![Cuda][]][Cuda-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -111,9 +104,8 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
-<!-- 
+You can either run the project locally on your device or in the cloud using [Google colab](https://colab.research.google.com/) follow the steps below for more details.
+
 ### Prerequisites
 
 This is an example of how to list things you need to use the software and how to install them.
@@ -127,7 +119,7 @@ This is an example of how to list things you need to use the software and how to
 1. Get a free API Key at [https://example.com](https://example.com)
 2. Clone the repo
    ```sh
-   git clone https://github.com/github_username/repo_name.git
+   git clone https://github.com/Abood-devo/simple-image-classifier.git
    ```
 3. Install NPM packages
    ```sh
@@ -139,7 +131,7 @@ This is an example of how to list things you need to use the software and how to
    ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
- -->
+
 
 
 <!-- USAGE EXAMPLES -->
@@ -161,7 +153,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 - [ ] Feature 3
     - [ ] Nested Feature
 
-See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/Abood-devo/simple-image-classifier/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -197,9 +189,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
+Abdulqader Dada - [@adfd_2](https://twitter.com/adfd_2) - Abdulqader@ieee.org
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Project Link: [https://github.com/Abood-devo/simple-image-classifier](https://github.com/Abood-devo/simple-image-classifier)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -218,19 +210,19 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/github_username/repo_name.svg?style=for-the-badge
-[contributors-url]: https://github.com/github_username/repo_name/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/github_username/repo_name.svg?style=for-the-badge
-[forks-url]: https://github.com/github_username/repo_name/network/members
-[stars-shield]: https://img.shields.io/github/stars/github_username/repo_name.svg?style=for-the-badge
-[stars-url]: https://github.com/github_username/repo_name/stargazers
-[issues-shield]: https://img.shields.io/github/issues/github_username/repo_name.svg?style=for-the-badge
-[issues-url]: https://github.com/github_username/repo_name/issues
-[license-shield]: https://img.shields.io/github/license/github_username/repo_name.svg?style=for-the-badge
-[license-url]: https://github.com/github_username/repo_name/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/Abood-devo/simple-image-classifier.svg?style=for-the-badge
+[contributors-url]: https://github.com/Abood-devo/simple-image-classifier/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/Abood-devo/simple-image-classifier.svg?style=for-the-badge
+[forks-url]: https://github.com/Abood-devo/simple-image-classifier/network/members
+[stars-shield]: https://img.shields.io/github/stars/Abood-devo/simple-image-classifier.svg?style=for-the-badge
+[stars-url]: https://github.com/Abood-devo/simple-image-classifier/stargazers
+[issues-shield]: https://img.shields.io/github/issues/Abood-devo/simple-image-classifier.svg?style=for-the-badge
+[issues-url]: https://github.com/Abood-devo/simple-image-classifier/issues
+[license-shield]: https://img.shields.io/github/license/Abood-devo/simple-image-classifier.svg?style=for-the-badge
+[license-url]: https://github.com/Abood-devo/simple-image-classifier/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/linkedin_username
-[product-screenshot]: assets/screenshot.png
+[linkedin-url]: https://linkedin.com/in/Abdulqader-dada
+[product-screenshot]: assets/maxresdefault.png
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
@@ -247,3 +239,17 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 [Bootstrap-url]: https://getbootstrap.com
 [JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
 [JQuery-url]: https://jquery.com 
+<!-- dependencies -->
+[Pytorch-url]: https://pytorch.org
+[Jupyter-url]: https://jupyter.org
+[Numpy-url]: https://numpy.org
+[Matplotlib-url]: https://matplotlib.org
+[Tqdm-url]: https://tqdm.github.io/
+[Cuda-url]: https://developer.nvidia.com/cuda-toolkit
+<!-- dependencies shield -->
+[Pytorch]: https://img.shields.io/badge/Pytorch-eb4d37?style=for-the-badge&logo=pytorch&logoColor=white
+[Jupyter]: https://img.shields.io/badge/Jupyter-f07838?style=for-the-badge&logo=jupyter&logoColor=white
+[Numpy]: https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white
+[Matplotlib]: https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black
+[Tqdm]: https://img.shields.io/badge/Tqdm-4999f4?style=for-the-badge&logo=tqdm&logoColor=f9ff4e
+[Cuda]: https://img.shields.io/badge/Nvidia-Cuda-6fba2f?style=for-the-badge&logo=nvidia&logoColor=white
